@@ -15,7 +15,7 @@ I enjoy designing structured, maintainable systems and solving complex technical
 ## Currently Working On
 
 • Web Architecture & Orchestration (distributed systems & microservices)  
-• IT Security (secure software design & risk assessment)  
+• Cybersecurity (secure software design & risk assessment)  
 • Machine Learning (data modeling, regression, classification)
 
 ---
