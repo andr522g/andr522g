@@ -69,10 +69,9 @@ Git • GitHub • Linux • Docker • Kubernetes • Visual Studio • VS Code
 
 ## 📫 How to Reach Me
 
-- 📧 Email: pelle131201@gmail.com  
 - 📍 Location: Aarhus, Denmark  
-- 💼 LinkedIn: (Add your LinkedIn URL here)  
-- 💻 GitHub: (Add your GitHub URL here)  
+- 💼 LinkedIn: www.linkedin.com/in/andré-rashid-96a894273
+
 
 ---
 
